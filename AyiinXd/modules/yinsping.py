@@ -32,6 +32,16 @@ absen = [
     "**𝙃𝙖𝙙𝙞𝙧 𝙉𝙜𝙖𝙗** 😎",
     "**𝙂𝙪𝙖 𝙃𝙖𝙙𝙞𝙧 𝘼𝙗𝙖𝙣𝙜** 🥺",
     "**𝙎𝙞 𝘾𝙖𝙠𝙚𝙥 𝙃𝙖𝙙𝙞𝙧 𝘽𝙖𝙣𝙜** 😎",
+    "**Hadir kak maap telat** 🥺",
+    "**Hadir Tuan** 🙏🏻",
+    "**Hadir Majikan** 🙏🏻",
+    "**Hadir Sayang** 😳",
+    "**Hadir Bro Nande** 😁",
+    "**maaf ka habis nemenin ka Nandee** 🥺",
+    "**maaf ka habis disuruh Tuan Nandee** 🥺🙏🏻",
+    "**Hadir Sayang** 😘"
+    "**Hadir Nande Akuuuuhhh** ☺️",
+    "**Hadir Nande brother Aku** 🥰",
 ]
 
 ayiincakep = [

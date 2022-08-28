@@ -1,5 +1,4 @@
 # Copyright (C) 2020 TeamDerUntergang
-""" Userbot help command for multi client """
 # SedenUserBot is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -12,7 +11,11 @@
 # Thanks @Spechide
 """ Userbot help command for multi client """
 
-from time import sleep
+from telethon.errors.rpcerrorlist import BotInlineDisabledError as noinline
+from telethon.errors.rpcerrorlist import BotResponseTimeoutError as timout
+from telethon.errors.rpcerrorlist import YouBlockedUserError
+from telethon.tl.functions.contacts import UnblockRequest
+
 
 from AyiinXd import CMD_HANDLER as cmd
 from AyiinXd import CMD_HELP, ICON_HELP, ch

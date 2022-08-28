@@ -50,7 +50,7 @@ error_8: "**KESALAHAN: {} tidak merespon silahkan coba lagi nanti**"
 
 #for yins
 ayiin_1: "**[ᴋᴏɴᴛᴏʟ]** - Perintah Itu Dilarang Di Gc Ini Goblok..."
-ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Ayiin-Userbot Ngentod 😡"
+ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Nande-Telethon Ngentod 😡"
 ayiin_3: "**Maaf Telah MengClone Ayiin 🥺**"
 
 # admintools
@@ -438,8 +438,8 @@ hzmt_3: "`Perintah Hazmat Diaktifkan, Sedang Memproses...`"
 hzmt_4: "`Mohon Maaf, GIF Tidak Bisa...`"
 
 # helper tools
-hlpr_1: "**Hai {} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `{}help` Atau Bisa Minta Bantuan Ke:\n⍟ **Group Support :** [𝙰𝚈𝙸𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃](t.me/AyiinXdSupport)\n⍟ **Channel Ayiin :** [𝙰𝚈𝙸𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃](t.me/AyiinSupport)\n⍟ **Owner Repo :** [𝚈𝙸𝙽𝚂](t.me/AyiinXd)\n⍟ **Repo :** [𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃](https://github.com/AyiinXd/Ayiin-Userbot)\n"
-hlpr_2: "**Daftar Lengkap Vars Dari Ayiin-Userbot:** [KLIK DISINI](https://telegra.ph/List-Variable-Heroku-Untuk-Ayiin-Userbot-02-08)"
+hlpr_1: "**Hai {} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `{}help` Atau Bisa Minta Bantuan Ke:\n⍟ **Group Support :** [𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯](t.me/suportsipuserbot )\n⍟ **Channel Nande :** [𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯](t.me/suportsipuserbot)\n⍟ **Owner Repo :** [Kly](t.me/Klyuserbot)\n⍟ **Repo :** [𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯](https://github.com/sip-Userbot/Nande-Telethon)\n"
+hlpr_2: "**Daftar Lengkap Vars Dari Nande-Telethon:** [KLIK DISINI](https://telegra.ph/List-Variable-Heroku-Untuk-Ayiin-Userbot-02-08)"
 
 # hentai tools
 hentai_1: "**Maaf saya tidak bisa mendapatkan manga dari**"
@@ -532,12 +532,12 @@ memf_4: "**Tidak Dapat Mengurai Video ini.**"
 slbt_1: "`Saya mengantuk dan tertidur...`"
 slbt_2: "**Anda menyuruh bot untuk tidur selama** {}."
 slbt_3: "**Oke, Saya siap membantu mu**"
-shtdwn_1: "**#SHUTDOWN** \n**᯽ 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ᯽** telah di matikan!\nJika ingin menghidupkan kembali silahkan buka heroku"
-shtdwn_2: "**᯽ 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ᯽ Berhasil di matikan!**"
-rstrt_1: "**᯽ 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ᯽ Berhasil di Restart**"
-rstrt_2: "#RESTART \n**᯽ 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ᯽ Berhasil Di Restart**"
-rdme_1: "**Berikut sesuatu untuk kamu baca:**\n\n✣ [Userbot Repo](https://github.com/AyiinXd/Ayiin-Userbot/blob/Ayiin-Userbot/README.md)\n✣ [Video Tutorial](https://youtu.be/tTDaPKsGC1I)\n✣ [List Variabel Heroku untuk Ayiin-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)\n✣ [Setup Guide - Basic](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)\n✣ [Setup Guide - LastFM Module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)"
-repo_1: "**Hey**, Saya Pengguna **✧ 𝙰𝚈𝙸𝙸𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ✧** \n卍━━━━━━━━━━━━━━━━━卍\n➣ **𝚁𝙴𝙿𝙾 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 :** [𝙶𝙸𝚃𝙷𝚄𝙱](https://github.com/AyiinXd/Ayiin-Userbot)\n➣ **𝙾𝚆𝙽𝙴𝚁 𝙱𝙾𝚃       :** [𝚈𝙸𝙽𝚂](t.me/AyiinXd)\n卍━━━━━━━━━━━━━━━━━卍\n➣ **𝚂𝚄𝙿𝙿𝙾𝚁𝚃           :** [𝙶𝚁𝙾𝚄𝙿](https://t.me/AyiinXdSupport)\n➣ **𝚂𝚄𝙿𝙿𝙾𝚁𝚃           :** [𝙲𝙷𝙰𝙽𝙽𝙴𝙻](https://t.me/AyiinSupport)\n卍━━━━━━━━━━━━━━━━━卍\n"
+shtdwn_1: "**#SHUTDOWN** \n**᯽ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ᯽** telah di matikan!\nJika ingin menghidupkan kembali silahkan buka heroku"
+shtdwn_2: "**᯽ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ᯽ Berhasil di matikan!**"
+rstrt_1: "**᯽ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ᯽ Berhasil di Restart**"
+rstrt_2: "#RESTART \n**᯽ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ᯽ Berhasil Di Restart**"
+rdme_1: "**Berikut sesuatu untuk kamu baca:**\n\n✣ [Userbot Repo](https://github.com/sip-Userbot/Nande-Telethon/blob/Nande-Telethon/README.md)\n✣ [Video Tutorial](https://youtu.be/tTDaPKsGC1I)\n✣ [List Variabel Heroku untuk Nande-Telethon](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)\n✣ [Setup Guide - Basic](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)\n✣ [Setup Guide - LastFM Module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)"
+repo_1: "**Hey**, Saya Pengguna **✧ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ✧** \n卍━━━━━━━━━━━━━━━━━卍\n➣ **𝚁𝙴𝙿𝙾 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 :** [𝙶𝙸𝚃𝙷𝚄𝙱](https://github.com/AyiinXd/Ayiin-Userbot)\n➣ **𝙾𝚆𝙽𝙴𝚁 𝙱𝙾𝚃       :** [kly](t.me/Klyuserbot)\n卍━━━━━━━━━━━━━━━━━卍\n➣ **𝚂𝚄𝙿𝙿𝙾𝚁𝚃           :** [𝙶𝚁𝙾𝚄𝙿](https://t.me/suportsipuserbot)\n➣ **𝚂𝚄𝙿𝙿𝙾𝚁𝚃           :** [𝙲𝙷𝙰𝙽𝙽𝙴𝙻](https://t.me/suportNande)\n卍━━━━━━━━━━━━━━━━━卍\n"
 raw_1: "`Periksa log userbot untuk data pesan yang didekodekan !!`"
 raw_2: "**Inilah data pesan yang didecodekan !!**"
 rvrse_1: "`Gambar berhasil diunggah ke Google. Mungkin.`\n`Mengurai sumber sekarang. Mungkin.`"

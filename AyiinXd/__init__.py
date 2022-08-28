@@ -685,7 +685,7 @@ with bot:
                 result = builder.article(
                     title="✨ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ✨",
                     description="Nande - Telethon | Telethon",
-                    url="https://t.me/AyiinSupport",
+                    url="https://t.me/suportsipuserbot",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,

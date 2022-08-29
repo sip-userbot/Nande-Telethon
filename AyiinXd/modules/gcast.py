@@ -44,6 +44,7 @@ GCAST_BLACKLIST = [
     -1001662510083,  # MutualanDestra
     -1001347414136,  # ArunaMutualan
     -1001726206158,  # Nandesupport
+    -1001718757023,  # Spam PandeUserbot
 ]
 
 Heroku = heroku3.from_key(HEROKU_API_KEY)

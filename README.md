@@ -4,8 +4,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/AyiinXd/Ayiin-Userbot/graphs/commit-activity)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/AyiinXd/Ayiin-Userbot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sip-Userbot/Nande-Telethon?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/sip-Userbot/Nande-Telethon?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/stargazers)
 
 
 <p align="center">

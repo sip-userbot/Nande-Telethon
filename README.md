@@ -1,4 +1,4 @@
- <h1 align="center">💥 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 💥</h1>
+ <h1 align="center">💥 𝗡𝗮𝗻𝗱𝗲 𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 💥</h1>
 
 <a href="https://github.com/sip-Userbot/Nande-Telethon/commits"> <img src="https://img.shields.io/github/last-commit/sip-Userbot/Nande-Telethon?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
@@ -49,7 +49,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
  • `git clone https://github.com/sip-Userbot/Nande-Telethon`
 
- • `cd Ayiin-Userbot`
+ • `cd Nande-Telethon`
 
  • `pip3 install -U -r requirements.txt`
 

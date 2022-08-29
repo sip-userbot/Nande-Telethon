@@ -4,7 +4,7 @@
 
 FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b 𝗡𝗮𝗻𝗱𝗲 𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 https://github.com/sip-Userbot/Nande-Telethon /home/nandetelethon/ \
+RUN git clone -b Nande-Telethon https://github.com/sip-Userbot/Nande-Telethon /home/nandetelethon/ \
     && chmod 777 /home/nandetelethon \
     && mkdir /home/nandetelethon/bin/
 

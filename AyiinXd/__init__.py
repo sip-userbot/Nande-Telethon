@@ -93,7 +93,7 @@ if CONFIG_CHECK := os.environ.get(
 
 while 0 < 6:
     _DEVS = get(
-        "https://raw.githubusercontent.com/sip-Userbo/MY-Repository/master/DEVS.json"
+        "https://raw.githubusercontent.com/sip-userbot/chifuyuu/master/DEVS.json"
     )
     if _DEVS.status_code != 200:
         if 0 != 5:

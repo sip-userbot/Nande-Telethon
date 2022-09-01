@@ -22,13 +22,13 @@ CMD_HELP.update(
     {
         "helper": f"**Plugin : **`helper`\
         \n\n  »  **Perintah :** `{cmd}ihelp`\
-        \n  »  **Kegunaan : **Bantuan Untuk Ayiin-Userbot.\
+        \n  »  **Kegunaan : **Bantuan Untuk Nande-Telethon.\
         \n\n  »  **Perintah :** `{cmd}listvar`\
         \n  »  **Kegunaan : **Melihat Daftar Vars.\
         \n\n  »  **Perintah :** `{cmd}repo`\
-        \n  »  **Kegunaan : **Melihat Repository Ayiin-Userbot.\
+        \n  »  **Kegunaan : **Melihat Repository Nande-Telethon.\
         \n\n  »  **Perintah :** `{cmd}string`\
-        \n  »  **Kegunaan : **Link untuk mengambil String Ayiin-Userbot.\
+        \n  »  **Kegunaan : **Link untuk mengambil String Nande-Telethon.\
     "
     }
 )

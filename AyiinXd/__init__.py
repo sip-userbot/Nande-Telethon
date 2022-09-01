@@ -236,7 +236,7 @@ ALIVE_LOGO = (os.environ.get("ALIVE_LOGO")
               or "https://telegra.ph/file/3770e59b11a06a85d37b7.jpg")
 
 INLINE_PIC = (os.environ.get("INLINE_PIC")
-              or "https://telegra.ph/file/9cefe256c1b71bb48cafd.jpg")
+              or "https://telegra.ph/file/2bfaea7272cfde2bd7575.jpg")
 
 # Picture For VCPLUGIN
 PLAY_PIC = (os.environ.get("PLAY_PIC")

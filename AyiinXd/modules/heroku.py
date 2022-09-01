@@ -247,7 +247,7 @@ CMD_HELP.update(
     {
         "heroku": f"**Plugin : **`heroku`\
         \n\n  »  **Perintah :** `{cmd}set var <nama var> <value>`\
-        \n  »  **Kegunaan : **Tambahkan Variabel Baru Atau Memperbarui Variabel Setelah Menyetel Variabel Ayiin-Userbot Akan Di Restart.\
+        \n  »  **Kegunaan : **Tambahkan Variabel Baru Atau Memperbarui Variabel Setelah Menyetel Variabel Nande-Telethon Akan Di Restart.\
         \n\n  »  **Perintah :** `{cmd}get var or {cmd}get var <nama var>`\
         \n  »  **Kegunaan : **Dapatkan Variabel Yang Ada,Harap Gunakan Di Grup Private Anda!\
         \n\n  »  **Perintah :** `{cmd}del var <nama var>`\

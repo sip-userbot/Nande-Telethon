@@ -51,7 +51,7 @@ error_8: "**KESALAHAN: {} tidak merespon silahkan coba lagi nanti**"
 #for yins
 ayiin_1: "**[ᴋᴏɴᴛᴏʟ]** - Perintah Itu Dilarang Di Gc Ini Goblok..."
 ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Nande-Telethon Ngentod 😡"
-ayiin_3: "**Maaf Telah MengClone Ayiin 🥺**"
+ayiin_3: "**Maaf Telah MengClone Nande 🥺**"
 
 # admintools
 prom_1: "`Mempromosikan...`"
@@ -369,7 +369,7 @@ gban_9: "**#𝘼𝙡𝙧𝙚𝙖𝙙𝙮_𝙂𝘽𝙖𝙣𝙣𝙚𝙙**\n\n Peng
 gban_10: "**\\#𝙂𝘽𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`\n**𝙂𝙗𝙖𝙣𝙣𝙚𝙙 𝘽𝙮 :** `{}`\n**𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : ✧ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ✧**"
 ungban_1: "`Membatalkan Perintah Larangan Global...`"
 ungban_2: "`Gagal Membatalkan Perintah Larangan Global...`"
-ungban_3: "`Gagal Membatalkan Perintah Larangan Global... Karena Dia Ada Di Daftar Hitam Ayiin-Userbot`"
+ungban_3: "`Gagal Membatalkan Perintah Larangan Global... Karena Dia Ada Di Daftar Hitam 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯`"
 ungban_4: "**\\#𝙐𝙣𝙂𝙗𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**𝙁𝙞𝙧𝙨𝙩 𝙉𝙖𝙢𝙚 :** [{}](tg://user?id={})\n**𝙐𝙨𝙚𝙧 𝙄𝘿 :** `{}`\n**𝘼𝙘𝙩𝙞𝙤𝙣 :** `𝙐𝙣𝙂𝙡𝙤𝙗𝙖𝙡 𝘽𝙖𝙣𝙣𝙚𝙙`\n**𝙐𝙣𝙂𝙗𝙖𝙣𝙣𝙚𝙙 𝘽𝙮 :** `{}`\n**𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : ✧ 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯 ✧**"
 
 # gcast tools
@@ -1002,7 +1002,7 @@ tod_5: "__Mendapatkan Hasil Dare Tod__\n\n**»** __Dare__ :\n**»** __{}__"
 lang_1: "❏ Silahkan Pilih Bahasa Yang Ingin Anda Gunakan.\n╭╼┅━━━━━╍━━━━━┅╾\n├▹ Bahasa Asli Indonesia [id]\n╰╼┅━━━━━╍━━━━━┅╾"
 lang_2: "Bahasa Anda telah disetel ke {} [{}]."
 lang_3: "Menu Bahasa Telah Di Tutup."
-lang_4: "❏ Silahkan Pilih Untuk Membuat String Session Anda\n╭╼┅━━━━━╍━━━━━┅╾\n├▹ Bot Untuk Membuat di bot [AyiinString]\n├▹ Replit Untuk Membuat Di Web [AyiinString]\n╰╼┅━━━━━╍━━━━━┅╾"
+lang_4: "❏ Silahkan Pilih Untuk Membuat String Session Anda\n╭╼┅━━━━━╍━━━━━┅╾\n├▹ Bot Untuk Membuat di bot [stringNande]\n├▹ Replit Untuk Membuat Di Web [stringNande]\n╰╼┅━━━━━╍━━━━━┅╾"
 
 # yiinstoxic tools
 yitxc_1: "**BACOT NGENTOTTT!!BAPA LU SURUH RIBUT SAMA GUA**"
@@ -1180,8 +1180,8 @@ yibot_74: "**Ayanggg 😖**"
 yibot_75: "**Aku Ange 😫**"
 yibot_76: "**Ayuukk Picies Yang 🤤**"
 yibot_77: "**Hai... Perkenalkan Nama Saya Kly**"
-yibot_78: "**Umur 23 Tahun...**"
-yibot_79: "**Tinggal Di Bali...**"
+yibot_78: "**Umur 17 Tahun...**"
+yibot_79: "**Tinggal Di Jawa Tengah...**"
 yibot_80: "**Owner Dari [Nande-Telethon](https://github.com/sip-Userbot/Nande-Telethon)... Salam Kenal** 😁"
 yibot_81: "**Aku Cuma Mau Bilang...**"
 yibot_82: "**Aku Sayang Kamu Mwaahh** 😘❤"

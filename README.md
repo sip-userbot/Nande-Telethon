@@ -106,7 +106,7 @@ Follow Channel [@suportNande](https://t.me/suportsipuserbot) untuk info Update b
 -  [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
 -  [AyiinXd](https://github.com/AyiinXd) for [Ayiin-Userbot](https://github.com/AyiinXd/Ayiin-Userbot)
 -  [sip](https://github.com/sip-Userbot) for [Nande-Telethon](https://github.com/sip-Userbot/Nande-Telethon)
-## License
-Licensed under [Raphielscape Public License](https://github.com/AyiinXd/Ayiin-Userbot/blob/Ayiin-Userbot/LICENSE) - Version 1.d, February 2020
+## License 
+Licensed under [Raphielscape Public License](https://github.com/sip-Userbot/Nande-Telethon/blob/Nande-Telethon/LICENSE) - Version 1.d, agustus 2022
 
 

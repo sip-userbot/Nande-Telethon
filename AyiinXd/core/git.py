@@ -30,7 +30,7 @@ def install_req(cmd: str) -> Tuple[str, str, int, int]:
 
 def git():
     UPSTREAM_REPO = b64decode(
-        "aHR0cHM6Ly9naXRodWIuY29tL0F5aWluWGQvQXlpaW4tVXNlcmJvdA=="
+        "aHR0cHM6Ly9naXRodWIuY29tL3NpcC11c2VyYm90L05hbmRlLVRlbGV0aG9u"
     ).decode("utf-8")
     try:
         repo = Repo()
@@ -61,4 +61,4 @@ def git():
         except GitCommandError:
             repo.git.reset("--hard", "FETCH_HEAD")
         install_req("pip3 install --no-cache-dir -r requirements.txt")
-        LOGS.info("Fetched Updates from 𝗡𝗮𝗻𝗱𝗲-𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯")
+        LOGS.info("Fetched Updates from Nande-Telethon")

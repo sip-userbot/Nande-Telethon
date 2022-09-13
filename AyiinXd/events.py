@@ -250,44 +250,6 @@ def register(**args):
             if not disable_edited:
                 bot.add_event_handler(wrapper, events.MessageEdited(**args))
             bot.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN2:
-            if not disable_edited:
-                AYIIN2.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN2.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN3:
-            if not disable_edited:
-                AYIIN3.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN3.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN4:
-            if not disable_edited:
-                AYIIN4.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN4.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN5:
-            if not disable_edited:
-                AYIIN5.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN5.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN6:
-            if not disable_edited:
-                AYIIN6.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN6.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN7:
-            if not disable_edited:
-                AYIIN7.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN7.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN8:
-            if not disable_edited:
-                AYIIN8.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN8.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN9:
-            if not disable_edited:
-                AYIIN9.add_event_handler(wrapper, events.MessageEdited(**args))
-            AYIIN9.add_event_handler(wrapper, events.NewMessage(**args))
-        if AYIIN10:
-            if not disable_edited:
-                AYIIN10.add_event_handler(
-                    wrapper, events.MessageEdited(**args))
-            AYIIN10.add_event_handler(wrapper, events.NewMessage(**args))
         return wrapper
-
 
     return decorator

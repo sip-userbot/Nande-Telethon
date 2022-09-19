@@ -187,7 +187,7 @@ async def amireallyalive(alive):
     await alive.edit("🎈")
     await asyncio.sleep(3)
     output = (
-        f"**Tʜᴇ [𝗡𝗮𝗻𝗱𝗲 𝘛𝘦𝘭𝘦𝘵𝘩𝘰𝘯](https://github.com/sip-Userbot/Nande-Telethon)**\n\n"
+        f"**Tʜᴇ [𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/sip-Userbot/Nande-Telethon)**\n\n"
         f"**{alive_text}**\n\n"
         f"╭✠╼━━━━━━━━━━━━━━━✠╮\n"
         f"{emoji} **Bᴀsᴇ Oɴ :** ••{adB.name}••\n"
@@ -198,7 +198,7 @@ async def amireallyalive(alive):
         f"{emoji} **PʏTɢCᴀʟʟs Vᴇʀsɪᴏɴ :** `{pytgcallss}` \n"
         f"{emoji} **Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ :** `{version.__version__}` \n"
         f"{emoji} **Pʏ-𝗡𝗮𝗻𝗱𝗲 Vᴇʀsɪᴏɴ :** `{py_ver}`\n"
-        f"{emoji} **𝗡𝗮𝗻𝗱𝗲 Vᴇʀsɪᴏɴ :** `{ayiin_version}` [{HOSTED_ON}]\n"
+        f"{emoji} **𝙽𝚊𝚗𝚍𝚎 Vᴇʀsɪᴏɴ :** `{ayiin_version}` [{HOSTED_ON}]\n"
         f"{emoji} **Bᴏᴛ Uᴘᴛɪᴍᴇ :** `{uptime}`\n"
         "╰✠╼━━━━━━━━━━━━━━━✠╯\n\n"
     )

@@ -276,7 +276,7 @@ CMD_HELP.update(
     {
         "sleep": f"**Plugin : **`sleep`\
         \n\n  »  **Perintah :** `{cmd}sleep`\
-        \n  »  **Kegunaan : **Biarkan Nande-Telethon tidur selama beberapa detik \
+        \n  »  **Kegunaan : **Biarkan 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 tidur selama beberapa detik \
     "
     }
 )
@@ -284,11 +284,11 @@ CMD_HELP.update(
 
 CMD_HELP.update(
     {
-        "repo": f"**Plugin : **`Repository Nande-Telethon`\
+        "repo": f"**Plugin : **`Repository 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝`\
         \n\n  »  **Perintah :** `{cmd}repo`\
-        \n  »  **Kegunaan : **Menampilan link Repository Nande-Telethon\
+        \n  »  **Kegunaan : **Menampilan link Repository 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝\
         \n\n  »  **Perintah :** `{cmd}string`\
-        \n  »  **Kegunaan : **Menampilan link String Nande-Telethon\
+        \n  »  **Kegunaan : **Menampilan link String 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝\
     "
     }
 )
@@ -306,7 +306,7 @@ CMD_HELP.update(
 
 CMD_HELP.update(
     {
-        "restart": f"**Plugin : **`Restart Nande-Telethon`\
+        "restart": f"**Plugin : **`Restart 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝`\
         \n\n  »  **Perintah :** `{cmd}restart`\
         \n  »  **Kegunaan : **Untuk Merestart userbot.\
     "

@@ -64,8 +64,8 @@ async def _(s):
 CMD_HELP.update(
     {
         "yinsubot3": f"**Plugin : **`yinsubot3`\
-        \n\n  »  **Perintah :** `{cmd}yins`\
-        \n  »  **Kegunaan : **Perkenalan diri Yins\
+        \n\n  »  **Perintah :** `{cmd}Kly`\
+        \n  »  **Kegunaan : **Perkenalan diri Kly\
         \n\n  »  **Perintah :** `{cmd}sayang`\
         \n  »  **Kegunaan : **Bucin\
         \n\n  »  **Perintah :** `{cmd}semangat`\

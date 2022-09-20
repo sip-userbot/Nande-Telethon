@@ -1,5 +1,5 @@
 build: 
   docker:
-      ayiin: Dockerfile
+      nande: Dockerfile
 run:
-   ayiin: bash start
+   nande: bash start

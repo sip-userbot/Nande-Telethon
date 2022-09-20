@@ -1,5 +1,5 @@
 build: 
   docker:
-      ayiin: Dockerfile
+      worker: Dockerfile
 run:
-   ayiin: bash start
+   worker: bash start

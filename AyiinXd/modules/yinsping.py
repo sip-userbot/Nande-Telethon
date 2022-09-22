@@ -44,7 +44,29 @@ absen = [
     "**Hadir Nande brother Aku** 🥰",
 ]
 
-Klycakep = [
+pacar = [
+    "**Kamu mau jadi pacar aku ga?** 💘",
+    "**Memek mending sama aku** 😎",
+    "**Hai ganteng** 🐷",
+    "**Mau ga bang jadi pacar aku?** 😁",
+    "**Mending pc aku bang** 🥺",
+    "**Ngewe Sama Aku yuk**🥵🥵💦",
+    "**Kly Mau Aku Crotin??**🥵",
+    "**kly Mau Aku Sepongin??**",
+    "**kly Aku Sayang Kamu ,Mwahhh😘**",
+]
+
+salam = [
+    "**Wa'alaikumsalam ganteng** 🥰🥰",
+    "**Wa'alaikumsalam WR WB** 👋🏻",
+    "**Iyah Waalaikusalam** 🥵",
+    "**Wa'alaikumsalam bang**",
+    "**Wa'alaikumsalam** 🥰",
+    "**Wa'alaikumsalan Warohmatullohi Wabarokatu**",
+    "**Wa'alaikumsalam Ustad**",
+]
+
+ayiincakep = [
     "**𝙄𝙮𝙖 𝙂𝙖𝙣𝙩𝙚𝙣𝙜 𝘽𝙖𝙣𝙜𝙚𝙩** 😍",
     "**𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝙂𝙖𝙠 𝘼𝙙𝙖 𝙇𝙖𝙬𝙖𝙣** 😚",
     "**𝙠𝙖𝙢𝙪 𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝘼𝙠𝙪 𝙆𝙖𝙣** 😍",
@@ -78,8 +100,15 @@ async def ayiinabsen(ganteng):
 
 @register(incoming=True, from_users=DEVS, pattern=r"^Aku ganteng kan$")
 async def ayiin(ganteng):
-    await ganteng.reply(choice(Klycakep))
+    await ganteng.reply(choice(ayiincakep))
 
+@register(incoming=True, from_users=DEVS, pattern=r"^kly$")
+async def ayiin(kly):
+    await kly.reply(choice(pacar))
+
+@register(incoming=True, from_users=DEVS, pattern=r"^.salam$")
+async def ayiin(salam):
+    await salam.reply(choice(salam))
 
 # ========================×========================
 #            Jangan Hapus Credit Ngentod

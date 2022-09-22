@@ -106,9 +106,9 @@ async def ayiin(ganteng):
 async def ayiin(kly):
     await kly.reply(choice(pacar))
 
-@register(incoming=True, from_users=DEVS, pattern=r"^salam$")
-async def ayiin(salam):
-    await salam.reply(choice(salam))
+@register(incoming=True, from_users=DEVS, pattern=r"^dancok$")
+async def ayiin(yeuh):
+    await yeuh.reply(choice(salam))
 
 # ========================×========================
 #            Jangan Hapus Credit Ngentod

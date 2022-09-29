@@ -1,8 +1,8 @@
 #==============×==============#
-#      Created by: Nande
-#=========× Nande ×=========#
+#      Created by: Alfa-Ex
+#=========× AyiinXd ×=========#
 
-FROM nandeuserbot/nandebot:nande
+FROM ayiinxd/ayiin-userbot:buster
 
 RUN git clone -b Nande-Telethon https://github.com/sip-Userbot/Nande-Telethon /home/nandetelethon/ \
     && chmod 777 /home/nandetelethon \

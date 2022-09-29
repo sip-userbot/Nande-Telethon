@@ -14,7 +14,7 @@ from pprint import pprint
 
 from AyiinXd import CMD_HANDLER as cmd
 from AyiinXd import CMD_HELP, bot
-from AyiinXd.ayiin import ayiin_cmd
+from AyiinXd.ayiin import ayiin_cmd, eod, eor
 from AyiinXd.events import register
 from Stringyins import get_string
 

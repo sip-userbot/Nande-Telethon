@@ -51,7 +51,7 @@
   "formation": {
     "nande": {
       "quantity": 1,
-      "size": "free"
+      "size": "basic"
     }
   }
 }

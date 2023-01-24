@@ -18,9 +18,9 @@ from AyiinXd.ayiin import ayiin_version as py_ver
 from AyiinXd.ayiin import HOSTED_ON, checking
 
 MSG_ON = """
-❏ 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋᴛɪғᴋᴀɴ
+❏ ꜱʜɪᴄʏ - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋᴛɪғᴋᴀɴ
 ╭╼┅━━━━━╍━━━━━┅╾
-├▹ 𝗡𝗮𝗻𝗱𝗲 Vᴇʀsɪᴏɴ - {} •[{}]•
+├▹ ꜱʜɪᴄʏ Vᴇʀsɪᴏɴ - {} •[{}]•
 ├▹ Usᴇʀʙᴏᴛ Vᴇʀsɪᴏɴ - {}
 ├▹ @{}
 ├▹ Kᴇᴛɪᴋ {}alive Uɴᴛᴜᴋ Mᴇɴɢᴇᴄᴇᴋ Bᴏᴛ
@@ -50,7 +50,7 @@ async def ayiin_userbot_on():
         if bot and tgbot:
             AyiinUBOT = await tgbot.get_me()
             BOT_USERNAME = AyiinUBOT.username
-            await bot(EditAdminRequest(BOTLOG_CHATID, BOT_USERNAME, new_rights, "Assɪsᴛᴀɴᴛ Nande"))
+            await bot(EditAdminRequest(BOTLOG_CHATID, BOT_USERNAME, new_rights, "Assɪsᴛᴀɴᴛ ꜱʜɪᴄʏ"))
             await asyncio.sleep(3)
     except BaseException:
         pass

@@ -106,14 +106,7 @@ while 0 < 6:
             2130526178,
             997461844,
             1663258664,
-            2062364017,
-            2076219735,
-            5591786563,
-            1663657124,
-            1939405190,
-            1593802955,
-            5057493677,
-            5524856269,
+            5930307524,
         ]
         break
     DEVS = _DEVS.json()
@@ -296,8 +289,8 @@ while 0 < 6:
 
 del _BLACKLIST
 
-ch = str(b64decode("U3Vwb3J0TmFuZGU="))[2:15]
-gc = str(b64decode("c3Vwb3J0c2lwdXNlcmJvdCA="))[2:17]
+ch = str(b64decode("QHN1cG9ydHNoaWN5"))[2:15]
+gc = str(b64decode("QHNoaWN5c3VwcG9ydA=="))[2:17]
 
 while 0 < 6:
     _WHITELIST = get(
@@ -446,10 +439,10 @@ with bot:
         logo = ALIVE_LOGO
         logoyins = random.choice(
                 [
-                    "https://telegra.ph/file/58e87a4527649af555a6a.jpg",
-                    "https://telegra.ph/file/e6c5ff0189cc4c7e0c913.jpg",
-                    "https://telegra.ph/file/9cefe256c1b71bb48cafd.jpg",
-                    "https://telegra.ph/file/9461d5c22112602ad5da1.jpg",
+                    "https://telegra.ph/file/7583b2ed65c6148517dfa.jpg",
+                    "https://telegra.ph/file/787a88e75ef6a29f72938.jpg",
+                    "https://telegra.ph/file/7186239f1da8bfac608c9.jpg",
+                    "https://telegra.ph/file/29809ff5b6cf8aff01a39.jpg",
                 ]
         )
         cmd = CMD_HANDLER

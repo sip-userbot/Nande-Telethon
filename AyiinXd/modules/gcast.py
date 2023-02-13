@@ -23,7 +23,7 @@ from AyiinXd.ayiin import ayiin_cmd, eod, eor
 from Stringyins import get_string
 
 GCAST_BLACKLIST = [
-    -1001726206158,  # Nandesupport
+    -1001808819173,  # Nandesupport
     -1001533367484,  # NathSupport
     -1001675396283,  # AyiinXdSupport
     -1001473548283,  # SharingUserbot

@@ -85,7 +85,7 @@ async def _(s):
 
 CMD_HELP.update(
     {
-        "yinsubot5": f"**Plugin : **`𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝`\
+        "yinsubot5": f"**Plugin : **`ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ`\
         \n\n  »  **Perintah :** `{cmd}ganteng`\
         \n  »  **Kegunaan : **Fakta Kalo Gua Ganteng\
         \n\n  »  **Perintah :** `{cmd}wibu`\

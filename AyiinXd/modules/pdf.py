@@ -31,7 +31,7 @@ async def _(event):
                 cnfrm = await conv.get_response()
                 editfilename = await conv.send_message("Yes")
                 enterfilename = await conv.get_response()
-                filename = await conv.send_message("𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝")
+                filename = await conv.send_message("ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ")
                 started = await conv.get_response()
                 pdf = await conv.get_response()
                 await event.client.send_read_acknowledge(conv.chat_id)

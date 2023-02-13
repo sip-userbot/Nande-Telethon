@@ -209,9 +209,9 @@ CMD_HELP.update(
     {
         "update": f"**Plugin : **`update`\
         \n\n  »  **Perintah :** `{cmd}update`\
-        \n  »  **Kegunaan : **Untuk Melihat Pembaruan Terbaru 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
+        \n  »  **Kegunaan : **Untuk Melihat Pembaruan Terbaru ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ.\
         \n\n  »  **Perintah :** `{cmd}update deploy`\
-        \n  »  **Kegunaan : **Untuk MengUpdate Fitur Terbaru Dari 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
+        \n  »  **Kegunaan : **Untuk MengUpdate Fitur Terbaru Dari ꜱʜɪᴄʏ ᴜꜱᴇʀʙᴏᴛ.\
     "
     }
 )

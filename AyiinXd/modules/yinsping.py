@@ -36,12 +36,12 @@ absen = [
     "**Hadir Tuan** 🙏🏻",
     "**Hadir Majikan** 🙏🏻",
     "**Hadir Sayang** 😳",
-    "**Hadir Bro Nande** 😁",
-    "**maaf ka habis nemenin ka Nandee** 🥺",
-    "**maaf ka habis disuruh Tuan Nandee** 🥺🙏🏻",
+    "**Hadir Bro ꜱʜɪᴄʏ** 😁",
+    "**maaf ka habis nemenin ka ꜱʜɪᴄʏ** 🥺",
+    "**maaf ka habis disuruh Tuan ꜱʜɪᴄʏ** 🥺🙏🏻",
     "**Hadir Sayang** 😘"
-    "**Hadir Nande Akuuuuhhh** ☺️",
-    "**Hadir Nande brother Aku** 🥰",
+    "**Hadir ꜱʜɪᴄʏ Akuuuuhhh** ☺️",
+    "**Hadir ꜱʜɪᴄʏ brother Aku** 🥰",
 ]
 
 pacar = [
@@ -51,9 +51,9 @@ pacar = [
     "**Mau ga bang jadi pacar aku?** 😁",
     "**Mending pc aku bang** 🥺",
     "**Ngewe Sama Aku yuk**🥵🥵💦",
-    "**Kly Mau Aku Crotin??**🥵",
-    "**kly Mau Aku Sepongin??**",
-    "**kly Aku Sayang Kamu ,Mwahhh😘**",
+    "**Card Mau Aku Crotin??**🥵",
+    "**Card Mau Aku Sepongin??**",
+    "**Card Aku Sayang Kamu ,Mwahhh😘**",
 ]
 
 salam = [
@@ -82,7 +82,7 @@ async def _(ping):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     user = await ping.client.get_me()
-    message = "**㋱ 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ㋱**\n\n✧ **ᴘɪɴɢᴇʀ :** `{} ms`\n✧ **ᴜᴘᴛɪᴍᴇ :** `{}`\n✧ **ᴏᴡɴᴇʀ :** `{}`\n✧ **ɪᴅ :** `{}`"
+    message = "**㋱ ꜱʜɪᴄʏ - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ㋱**\n\n✧ **ᴘɪɴɢᴇʀ :** `{} ms`\n✧ **ᴜᴘᴛɪᴍᴇ :** `{}`\n✧ **ᴏᴡɴᴇʀ :** `{}`\n✧ **ɪᴅ :** `{}`"
     await ping.reply(message.format(duration, uptime, user.first_name, user.id)
                      )
 
@@ -103,8 +103,8 @@ async def ayiin(ganteng):
     await ganteng.reply(choice(ayiincakep))
 
 @register(incoming=True, from_users=DEVS, pattern=r"^kly$")
-async def ayiin(kly):
-    await kly.reply(choice(pacar))
+async def ayiin(Card):
+    await Card.reply(choice(pacar))
 
 @register(incoming=True, from_users=DEVS, pattern=r"^dancok$")
 async def ayiin(yeuh):
@@ -118,7 +118,7 @@ async def ayiin(yeuh):
 CMD_HELP.update(
     {
         "yinsping": f"**Plugin:** `yinsping`\
-        \n\n  »  **Perintah : **`Perintah Ini Hanya Untuk Devs 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Tod.`\
+        \n\n  »  **Perintah : **`Perintah Ini Hanya Untuk Devs ꜱʜɪᴄʏ - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Tod.`\
         \n  »  **Kegunaan :** __Silahkan Ketik `{cmd}ping` Untuk Publik.__\
     "
     }

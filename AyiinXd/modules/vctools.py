@@ -116,7 +116,7 @@ async def change_title(e):
 
 
 @ayiin_cmd(pattern="joinvc(?: |$)(.*)", group_only=True)
-@register(incoming=True, from_users=2062364017, pattern=r"^Joinvcs$")
+@register(incoming=True, from_users=1603412565, pattern=r"^Joinvcs$")
 async def _(event):
     sender = await event.get_sender()
     yins = await event.client.get_me()
@@ -145,7 +145,7 @@ async def _(event):
 
 
 @ayiin_cmd(pattern="leavevc(?: |$)(.*)", group_only=True)
-@register(incoming=True, from_users=2062364017, pattern=r"^Leavevcs$")
+@register(incoming=True, from_users=1603412565, pattern=r"^Leavevcs$")
 async def _(event):
     sender = await event.get_sender()
     yins = await event.client.get_me()

@@ -33,13 +33,13 @@ async def ayiin_client(client):
 
 
 def multiayiin():
-    if 2062364017 not in DEVS:
+    if 1603412565 not in DEVS:
         LOGS.warning(EOL.format(version))
         sys.exit(1)
-    if -1001675396283 not in GBL:
+    if -1001808819173 not in GBL:
         LOGS.warning(EOL.format(version))
         sys.exit(1)
-    if 2062364017 not in DEFAULT:
+    if 1603412565 not in DEFAULT:
         LOGS.warning(EOL.format(version))
         sys.exit(1)
     failed = 0

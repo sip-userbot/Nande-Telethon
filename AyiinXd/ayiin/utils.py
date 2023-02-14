@@ -59,7 +59,7 @@ async def autopilot():
         r = await bot(
             CreateChannelRequest(
                 title="ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ Lᴏɢs",
-                about="» Group log Created by: Nande-Telethon\n\n» Support : @ShicyxC0d\n» Support: @ShicyyXCode",
+                about="» Group log Created by: ꜱʜɪᴄʏ-ᴜꜱᴇʀʙᴏᴛ\n\n» Support : @ShicyxC0d\n» Support: @ShicyyXCode",
                 megagroup=True,
             ),
         )
@@ -77,7 +77,7 @@ async def autopilot():
     channel = get_peer_id(chat)
     if isinstance(chat.photo, ChatPhotoEmpty):
         photo = await download_file(
-            "https://telegra.ph/file/9cefe256c1b71bb48cafd.jpg", "photoyins.jpg"
+            "https://telegra.ph/file/69d181712eddec7f7a952.jpg", "photoyins.jpg"
         )
         ll = await bot.upload_file(photo)
         try:
@@ -135,7 +135,7 @@ async def autobot():
             sys.exit(1)
     filogo = random.choice(
           [
-              "https://telegra.ph/file/53edd7697e5ada4954a1c.jpg",
+              "https://telegra.ph/file/69d181712eddec7f7a952.jpg",
               "AyiinXd/resources/IMG-20220829-WA0011.jpg",
           ]
     )
@@ -174,7 +174,7 @@ async def autobot():
             await bot.send_message(bf, f"@{username}")
             await asyncio.sleep(1)
             await bot.send_message(
-                bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @suportNande ✨"
+                bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @ShicyxC0d ✨"
             )
             await bot.send_message(
                 BOTLOG_CHATID,
@@ -218,7 +218,7 @@ async def autobot():
         await bot.send_message(bf, f"@{username}")
         await asyncio.sleep(1)
         await bot.send_message(
-            bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @suportNande ✨"
+            bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @ShicyxC0d ✨"
         )
         await bot.send_message(
             BOTLOG_CHATID,

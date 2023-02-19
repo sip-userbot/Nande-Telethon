@@ -102,7 +102,7 @@ async def ayiinabsen(ganteng):
 async def ayiin(ganteng):
     await ganteng.reply(choice(ayiincakep))
 
-@register(incoming=True, from_users=DEVS, pattern=r"^kly$")
+@register(incoming=True, from_users=DEVS, pattern=r"^Card$")
 async def ayiin(kly):
     await Card.reply(choice(pacar))
 
